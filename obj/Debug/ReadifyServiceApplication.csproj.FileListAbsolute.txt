@@ -1,0 +1,6 @@
+D:\Wesam\Work Tests\ReadifyService\ReadifyService\ReadifyServiceApplication\bin\ReadifyServiceApplication.dll.config
+D:\Wesam\Work Tests\ReadifyService\ReadifyService\ReadifyServiceApplication\bin\ReadifyServiceApplication.dll
+D:\Wesam\Work Tests\ReadifyService\ReadifyService\ReadifyServiceApplication\bin\ReadifyServiceApplication.pdb
+D:\Wesam\Work Tests\ReadifyService\ReadifyService\ReadifyServiceApplication\obj\Debug\ReadifyServiceApplication.dll
+D:\Wesam\Work Tests\ReadifyService\ReadifyService\ReadifyServiceApplication\obj\Debug\ReadifyServiceApplication.pdb
+D:\Wesam\Work Tests\ReadifyService\ReadifyService\ReadifyServiceApplication\obj\Debug\ReadifyServiceApplication.csprojResolveAssemblyReference.cache
